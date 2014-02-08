@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"main.js",
+"lineCount":1,
+"mappings":"A,SAmBAA,MAAA,wBAAkC,QAAA,CAAUC,CAAV,CAAeC,CAAf,EAqBhCA,CAAA,6GAMa,QAAA,CAAUC,CAAV,EACZA,CAAAC,MAAA,EADY,CANb,CArBgC,CAAlC;",
+"sources":["main.js.uncompressed.js"],
+"names":["define","has","require","parser","parse"]
+}
